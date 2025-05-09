@@ -1,0 +1,19 @@
+  div{
+            height: 300px;
+            width: 300px;
+            background: linear-gradient(190deg,rgb(200, 152, 160),rgb(192, 118, 192));
+            border: 4px solid black;
+            border-radius: 4px;
+            margin: auto;
+            box-shadow: 5px 5px 29px gray;
+            position: absolute;
+            top:100px;
+            left: 500px;
+        }
+        h1{
+            text-align: center;
+          
+        }
+        button{
+            border: 1px dashed black;
+        }
